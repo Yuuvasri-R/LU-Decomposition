@@ -68,3 +68,45 @@ Thus the program to find the LU Decomposition of a matrix is written and verifie
 
 
 
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
